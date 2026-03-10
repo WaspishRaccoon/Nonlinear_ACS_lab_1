@@ -1,4 +1,4 @@
-# Lab 1 - DC Motor with Series Excitation (ДПТ с ПВ)
+# Lab 1 - DC Motor with Series Excitation
 
 A DC series-excited motor model in MATLAB/Simulink. Laboratory work for the course "Nonlinear Automatic Control Systems".
 
